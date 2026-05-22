@@ -1,2 +1,1 @@
-# melanies_smoothies
-This will be the web version of the smoothie order form 
+A Streamlit-based smoothie ordering web app built on Snowflake featuring data ingestion, geospatial analytics, internal/external stages, UDFs, and views.
